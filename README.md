@@ -28,7 +28,7 @@ first two models, in a dataset without them.
 <br />
 ## The `report_house_price_proj.Rmd` document
 
-This `Rmd` document was renderized to generate the PDF document `report_movielens_proj.pdf`.  
+This `Rmd` document was renderized to generate the PDF document `report_house_price_proj.pdf`.  
 <br />
 ## The `report_house_price_proj.pdf` final report
 
